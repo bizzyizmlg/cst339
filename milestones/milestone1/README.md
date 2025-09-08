@@ -1,6 +1,6 @@
 # CST-339 Project Design Report – Milestone 1
 
-## Topic / Date / Revision
+
 | Project Design | 9/8/2025 |
 |-------|------|
 | 1 – Project Proposal and Initial Design | 9/7/2025 | 1.0 |
